@@ -1,0 +1,24 @@
+{
+  "name": "redis-cluster-benchmark",
+  "version": "1.0.0",
+  "description": "benchmark tool for redis-cluster",
+  "main": "index.js",
+  "dependencies": {
+    "ioredis": "^2.1.0",
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomox1001/redis-cluster-benchmark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomox1001/redis-cluster-benchmark/issues"
+  },
+  "homepage": "https://github.com/tomox1001/redis-cluster-benchmark#readme"
+}
